@@ -839,5 +839,105 @@
 
 
 /*--------------------------------------------------------------
+  # About Six
+  --------------------------------------------------------------*/
+.about-six {
+    position: relative;
+    display: block;
+    padding: 69px 0 120px;
+    z-index: 1;
+}
+
+.about-six__left {
+    position: relative;
+    display: block;
+    margin-top: 65px;
+}
+
+.about-six__left .section-title {
+    margin-bottom: 21px;
+}
+
+.about-six__vision,
+.about-six__mission {
+    margin-bottom: 40px;
+}
+
+.about-six__vision h3,
+.about-six__mission h3 {
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 34px;
+    margin-bottom: 15px;
+    color: var(--crank-black);
+}
+
+.about-six__text {
+    font-size: 18px;
+    line-height: 28px;
+    color: var(--crank-black);
+}
+
+.about-six__right {
+    position: relative;
+    display: block;
+    margin-top: 65px;
+}
+
+.about-six__right h3 {
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 34px;
+    margin-bottom: 21px;
+    color: var(--crank-black);
+}
+
+.about-six__goals {
+    position: relative;
+    display: block;
+}
+
+.about-six__goals li {
+    position: relative;
+    display: flex;
+    align-items: flex-start;
+    flex-wrap: wrap;
+    gap: 15px;
+}
+
+.about-six__goals li+li {
+    margin-top: 20px;
+}
+
+.about-six__goals li .icon {
+    position: relative;
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    margin-top: 5px;
+}
+
+.about-six__goals li .icon span {
+    position: relative;
+    display: inline-block;
+    font-size: 15px;
+    color: var(--crank-base);
+}
+
+.about-six__goals li .text {
+    position: relative;
+    display: block;
+    flex: 1;
+}
+
+.about-six__goals li .text p {
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 28px;
+    font-family: var(--crank-font-two);
+    color: var(--crank-black);
+}
+
+/*--------------------------------------------------------------
   # End
   --------------------------------------------------------------*/

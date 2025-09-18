@@ -1,0 +1,380 @@
+price section for about us page
+    put it uder here 
+        <!--Pricing Three Start -->
+
+
+        <section class="pricing-three">
+            <div class="container">
+                <div class="section-title text-center sec-title-animation animation-style1">
+                    <div class="section-title__tagline-box">
+                        <span class="section-title__tagline"> </span>
+                    </div>
+                    <h2 class="section-title__title title-animation">Our Pricing Plan</h2>
+                </div>
+                <div class="pricing-three__main-tab-box tabs-box">
+                    <ul class="tab-buttons list-unstyled">
+                        <li data-tab="#monthly" class="tab-btn active-btn"><span>Monthly</span></li>
+                        <li data-tab="#yearly" class="tab-btn"><span>Yearly</span></li>
+                    </ul>
+                    <div class="tabs-content">
+                        <!--tab-->
+                        <div class="tab active-tab" id="monthly">
+                            <div class="pricing-three__inner">
+                                <div class="row">
+                                    <!--Pricing Three Single Start -->
+                                    <div class="col-xl-4 col-lg-4">
+                                        <div class="pricing-three__single">
+                                            <div class="pricing-three__single-bg-shape"
+                                                style="background-image: url(assets/images/shapes/pricing-three-single-bg-shape.png);">
+                                            </div>
+                                            <div class="pricing-three__title-box">
+                                                <h2 class="pricing-three__title">Esay</h2>
+                                                <p class="pricing-three__text">Car service is essential for maintaining
+                                                    performance and longevity of vehicle. From oil changes</p>
+                                            </div>
+                                            <div class="pricing-three__price-and-icon-box">
+                                                <div class="pricing-three__price-box">
+                                                    <h3 class="pricing-three__price">$10 <span>/month</span> </h3>
+                                                </div>
+                                            </div>
+                                            <ul class="list-unstyled pricing-three__points">
+                                                <li>
+                                                    <div class="icon">
+                                                        <span class="icon-double-arrow-right"></span>
+                                                    </div>
+                                                    <div class="text">
+                                                        <p>Mistakes To Avoid</p>
+                                                    </div>
+                                                </li>
+                                                <li>
+                                                    <div class="icon">
+                                                        <span class="icon-double-arrow-right"></span>
+                                                    </div>
+                                                    <div class="text">
+                                                        <p>Winning for Your Startup</p>
+                                                    </div>
+                                                </li>
+                                                <li>
+                                                    <div class="icon">
+                                                        <span class="icon-double-arrow-right"></span>
+                                                    </div>
+                                                    <div class="text">
+                                                        <p>Mistakes To Avoid</p>
+                                                    </div>
+                                                </li>
+                                                <li>
+                                                    <div class="icon">
+                                                        <span class="icon-double-arrow-right"></span>
+                                                    </div>
+                                                    <div class="text">
+                                                        <p>Your Event, Your Memories</p>
+                                                    </div>
+                                                </li>
+                                            </ul>
+                                            <div class="pricing-three__btn-box">
+                                                <a href="pricing.html" class="thm-btn">Get Started Now<span
+                                                        class="icon-arrow-up-right"></span></a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <!--Pricing Three Single Start -->
+                                    <!--Pricing Three Single Start -->
+                                    <div class="col-xl-4 col-lg-4">
+                                        <div class="pricing-three__single">
+                                            <div class="pricing-three__single-bg-shape"
+                                                style="background-image: url(assets/images/shapes/pricing-three-single-bg-shape.png);">
+                                            </div>
+                                            <div class="pricing-three__title-box">
+                                                <h2 class="pricing-three__title">Free</h2>
+                                                <p class="pricing-three__text">Car service is essential for maintaining
+                                                    performance and longevity of vehicle. From oil changes</p>
+                                            </div>
+                                            <div class="pricing-three__price-and-icon-box">
+                                                <div class="pricing-three__price-box">
+                                                    <h3 class="pricing-three__price">$0 <span>/month</span> </h3>
+                                                </div>
+                                            </div>
+                                            <ul class="list-unstyled pricing-three__points">
+                                                <li>
+                                                    <div class="icon">
+                                                        <span class="icon-double-arrow-right"></span>
+                                                    </div>
+                                                    <div class="text">
+                                                        <p>Mistakes To Avoid</p>
+                                                    </div>
+                                                </li>
+                                                <li>
+                                                    <div class="icon">
+                                                        <span class="icon-double-arrow-right"></span>
+                                                    </div>
+                                                    <div class="text">
+                                                        <p>Winning for Your Startup</p>
+                                                    </div>
+                                                </li>
+                                                <li>
+                                                    <div class="icon">
+                                                        <span class="icon-double-arrow-right"></span>
+                                                    </div>
+                                                    <div class="text">
+                                                        <p>Mistakes To Avoid</p>
+                                                    </div>
+                                                </li>
+                                                <li>
+                                                    <div class="icon">
+                                                        <span class="icon-double-arrow-right"></span>
+                                                    </div>
+                                                    <div class="text">
+                                                        <p>Your Event, Your Memories</p>
+                                                    </div>
+                                                </li>
+                                            </ul>
+                                            <div class="pricing-three__btn-box">
+                                                <a href="pricing.html" class="thm-btn">Get Started Now<span
+                                                        class="icon-arrow-up-right"></span></a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <!--Pricing Three Single Start -->
+                                    <!--Pricing Three Single Start -->
+                                    <div class="col-xl-4 col-lg-4">
+                                        <div class="pricing-three__single">
+                                            <div class="pricing-three__single-bg-shape"
+                                                style="background-image: url(assets/images/shapes/pricing-three-single-bg-shape.png);">
+                                            </div>
+                                            <div class="pricing-three__title-box">
+                                                <h2 class="pricing-three__title">Free</h2>
+                                                <p class="pricing-three__text">Car service is essential for maintaining
+                                                    performance and longevity of vehicle. From oil changes</p>
+                                            </div>
+                                            <div class="pricing-three__price-and-icon-box">
+                                                <div class="pricing-three__price-box">
+                                                    <h3 class="pricing-three__price">$30 <span>/month</span> </h3>
+                                                </div>
+                                            </div>
+                                            <ul class="list-unstyled pricing-three__points">
+                                                <li>
+                                                    <div class="icon">
+                                                        <span class="icon-double-arrow-right"></span>
+                                                    </div>
+                                                    <div class="text">
+                                                        <p>Mistakes To Avoid</p>
+                                                    </div>
+                                                </li>
+                                                <li>
+                                                    <div class="icon">
+                                                        <span class="icon-double-arrow-right"></span>
+                                                    </div>
+                                                    <div class="text">
+                                                        <p>Winning for Your Startup</p>
+                                                    </div>
+                                                </li>
+                                                <li>
+                                                    <div class="icon">
+                                                        <span class="icon-double-arrow-right"></span>
+                                                    </div>
+                                                    <div class="text">
+                                                        <p>Mistakes To Avoid</p>
+                                                    </div>
+                                                </li>
+                                                <li>
+                                                    <div class="icon">
+                                                        <span class="icon-double-arrow-right"></span>
+                                                    </div>
+                                                    <div class="text">
+                                                        <p>Your Event, Your Memories</p>
+                                                    </div>
+                                                </li>
+                                            </ul>
+                                            <div class="pricing-three__btn-box">
+                                                <a href="pricing.html" class="thm-btn">Get Started Now<span
+                                                        class="icon-arrow-up-right"></span></a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <!--Pricing Three Single Start -->
+                                </div>
+                            </div>
+                        </div>
+                        <!--tab-->
+                        <div class="tab " id="yearly">
+                            <div class="pricing-three__inner">
+                                <div class="row">
+                                    <!--Pricing Three Single Start -->
+                                    <div class="col-xl-4 col-lg-4">
+                                        <div class="pricing-three__single">
+                                            <div class="pricing-three__single-bg-shape"
+                                                style="background-image: url(assets/images/shapes/pricing-three-single-bg-shape.png);">
+                                            </div>
+                                            <div class="pricing-three__title-box">
+                                                <h2 class="pricing-three__title">Esay</h2>
+                                                <p class="pricing-three__text">Car service is essential for maintaining
+                                                    performance and longevity of vehicle. From oil changes</p>
+                                            </div>
+                                            <div class="pricing-three__price-and-icon-box">
+                                                <div class="pricing-three__price-box">
+                                                    <h3 class="pricing-three__price">$10 <span>/month</span> </h3>
+                                                </div>
+                                            </div>
+                                            <ul class="list-unstyled pricing-three__points">
+                                                <li>
+                                                    <div class="icon">
+                                                        <span class="icon-double-arrow-right"></span>
+                                                    </div>
+                                                    <div class="text">
+                                                        <p>Mistakes To Avoid</p>
+                                                    </div>
+                                                </li>
+                                                <li>
+                                                    <div class="icon">
+                                                        <span class="icon-double-arrow-right"></span>
+                                                    </div>
+                                                    <div class="text">
+                                                        <p>Winning for Your Startup</p>
+                                                    </div>
+                                                </li>
+                                                <li>
+                                                    <div class="icon">
+                                                        <span class="icon-double-arrow-right"></span>
+                                                    </div>
+                                                    <div class="text">
+                                                        <p>Mistakes To Avoid</p>
+                                                    </div>
+                                                </li>
+                                                <li>
+                                                    <div class="icon">
+                                                        <span class="icon-double-arrow-right"></span>
+                                                    </div>
+                                                    <div class="text">
+                                                        <p>Your Event, Your Memories</p>
+                                                    </div>
+                                                </li>
+                                            </ul>
+                                            <div class="pricing-three__btn-box">
+                                                <a href="pricing.html" class="thm-btn">Get Started Now<span
+                                                        class="icon-arrow-up-right"></span></a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <!--Pricing Three Single Start -->
+                                    <!--Pricing Three Single Start -->
+                                    <div class="col-xl-4 col-lg-4">
+                                        <div class="pricing-three__single">
+                                            <div class="pricing-three__single-bg-shape"
+                                                style="background-image: url(assets/images/shapes/pricing-three-single-bg-shape.png);">
+                                            </div>
+                                            <div class="pricing-three__title-box">
+                                                <h2 class="pricing-three__title">Free</h2>
+                                                <p class="pricing-three__text">Car service is essential for maintaining
+                                                    performance and longevity of vehicle. From oil changes</p>
+                                            </div>
+                                            <div class="pricing-three__price-and-icon-box">
+                                                <div class="pricing-three__price-box">
+                                                    <h3 class="pricing-three__price">$0 <span>/month</span> </h3>
+                                                </div>
+                                            </div>
+                                            <ul class="list-unstyled pricing-three__points">
+                                                <li>
+                                                    <div class="icon">
+                                                        <span class="icon-double-arrow-right"></span>
+                                                    </div>
+                                                    <div class="text">
+                                                        <p>Mistakes To Avoid</p>
+                                                    </div>
+                                                </li>
+                                                <li>
+                                                    <div class="icon">
+                                                        <span class="icon-double-arrow-right"></span>
+                                                    </div>
+                                                    <div class="text">
+                                                        <p>Winning for Your Startup</p>
+                                                    </div>
+                                                </li>
+                                                <li>
+                                                    <div class="icon">
+                                                        <span class="icon-double-arrow-right"></span>
+                                                    </div>
+                                                    <div class="text">
+                                                        <p>Mistakes To Avoid</p>
+                                                    </div>
+                                                </li>
+                                                <li>
+                                                    <div class="icon">
+                                                        <span class="icon-double-arrow-right"></span>
+                                                    </div>
+                                                    <div class="text">
+                                                        <p>Your Event, Your Memories</p>
+                                                    </div>
+                                                </li>
+                                            </ul>
+                                            <div class="pricing-three__btn-box">
+                                                <a href="pricing.html" class="thm-btn">Get Started Now<span
+                                                        class="icon-arrow-up-right"></span></a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <!--Pricing Three Single Start -->
+                                    <!--Pricing Three Single Start -->
+                                    <div class="col-xl-4 col-lg-4">
+                                        <div class="pricing-three__single">
+                                            <div class="pricing-three__single-bg-shape"
+                                                style="background-image: url(assets/images/shapes/pricing-three-single-bg-shape.png);">
+                                            </div>
+                                            <div class="pricing-three__title-box">
+                                                <h2 class="pricing-three__title">Free</h2>
+                                                <p class="pricing-three__text">Car service is essential for maintaining
+                                                    performance and longevity of vehicle. From oil changes</p>
+                                            </div>
+                                            <div class="pricing-three__price-and-icon-box">
+                                                <div class="pricing-three__price-box">
+                                                    <h3 class="pricing-three__price">$30 <span>/month</span> </h3>
+                                                </div>
+                                            </div>
+                                            <ul class="list-unstyled pricing-three__points">
+                                                <li>
+                                                    <div class="icon">
+                                                        <span class="icon-double-arrow-right"></span>
+                                                    </div>
+                                                    <div class="text">
+                                                        <p>Mistakes To Avoid</p>
+                                                    </div>
+                                                </li>
+                                                <li>
+                                                    <div class="icon">
+                                                        <span class="icon-double-arrow-right"></span>
+                                                    </div>
+                                                    <div class="text">
+                                                        <p>Winning for Your Startup</p>
+                                                    </div>
+                                                </li>
+                                                <li>
+                                                    <div class="icon">
+                                                        <span class="icon-double-arrow-right"></span>
+                                                    </div>
+                                                    <div class="text">
+                                                        <p>Mistakes To Avoid</p>
+                                                    </div>
+                                                </li>
+                                                <li>
+                                                    <div class="icon">
+                                                        <span class="icon-double-arrow-right"></span>
+                                                    </div>
+                                                    <div class="text">
+                                                        <p>Your Event, Your Memories</p>
+                                                    </div>
+                                                </li>
+                                            </ul>
+                                            <div class="pricing-three__btn-box">
+                                                <a href="pricing.html" class="thm-btn">Get Started Now<span
+                                                        class="icon-arrow-up-right"></span></a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <!--Pricing Three Single Start -->
+                                </div>
+                            </div>
+                        </div>
+                        <!--tab-->
+                    </div>
+                </div>
+            </div>
+        </section>
